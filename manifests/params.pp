@@ -4,7 +4,7 @@ class avahi::params {
     $avahi_main    = 'avahi'
     $avahi_daemon  = 'avahi-daemon'
     $avahi_tools   = 'avahi-tools'
-    $avahi_mdns    = 'nss-mdns'
+    $avahi_mdns    = 'avahi-dnsconfd'
     $avahi_dbus    = 'messagebus'
   }
   elsif $::osfamily == 'Debian' {
