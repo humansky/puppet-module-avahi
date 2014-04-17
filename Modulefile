@@ -8,4 +8,4 @@ description 'Setup avahi in simple ways'
 project_page 'https://github.com/stahnma/puppet-module-avahi'
 
 ## Add dependencies, if any:
-dependency 'puppetlabs-inifile', '>= 0.0.3'
+dependency 'puppetlabs/inifile', '>= 1.0.3'
