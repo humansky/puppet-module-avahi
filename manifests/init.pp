@@ -5,7 +5,7 @@
 #  Tested on EL6 and Wheezy
 #
 #  Requirements:
-#    cprice404-inifile >= 0.0.3
+#    puppetlabs-inifile >= 0.0.3
 #
 # === Examples
 #
